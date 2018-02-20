@@ -1,0 +1,33 @@
+p{
+	font-family:arial;
+	font-size:18;
+	color:#16296E;
+}
+.mitabla{
+	font-family:arial;
+	font-size:12;
+	border:solid;
+	border-color:skyblue;
+	width : 80%;
+	
+}
+.mitr{
+	width : 20%;
+	font-family:arial;
+	font-size:12;
+	border:solid;
+	border-color:#FFFFFF;
+	text-align:center;
+}
+.mitd{
+	border:solid;
+	border-color:skyblue;
+}
+#miselect{
+	position:absolute;
+	top : 32%;
+	left : 60%;
+	height : 15%;
+	width : 40%;
+
+}
